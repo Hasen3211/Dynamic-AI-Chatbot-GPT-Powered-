@@ -1,0 +1,18 @@
+Dynamic AI Chatbot
+
+This project is an intelligent GPT-powered chatbot designed to provide contextual, dynamic, and user-friendly responses.
+
+The chatbot supports:
+- Natural language conversations
+- Conversation memory
+- Knowledge-base retrieval
+- Intent detection
+- Sentiment analysis
+- Named entity recognition
+- Chat history
+- Analytics
+- Error handling and fallback responses
+
+The system combines a conversational AI model with a local knowledge base to improve response relevance.
+
+The chatbot is designed as a modular application where the frontend, backend, RAG system, analytics, and AI processing components work together.

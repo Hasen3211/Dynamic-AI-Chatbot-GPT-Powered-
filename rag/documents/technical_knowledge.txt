@@ -1,0 +1,36 @@
+Technical Knowledge
+
+Retrieval-Augmented Generation
+
+RAG improves language model responses by retrieving relevant information from an external knowledge source before generating the final answer.
+
+The RAG workflow contains three major stages:
+
+1. Document ingestion
+Documents are loaded from the knowledge base.
+
+2. Retrieval
+The system compares the user's query with available document content and retrieves the most relevant information.
+
+3. Generation
+The retrieved context is passed to the language model, which generates the final response.
+
+Conversation Memory
+
+Conversation memory stores recent user and assistant messages. This allows the chatbot to understand follow-up questions and maintain conversational context.
+
+Intent Detection
+
+Intent detection identifies the purpose of a user message. Examples include greetings, information requests, technical questions, support requests, and general conversations.
+
+Sentiment Analysis
+
+Sentiment analysis identifies the emotional tone of a message. Common categories include positive, negative, and neutral.
+
+Named Entity Recognition
+
+NER identifies important entities in text, such as people, organizations, locations, technologies, and products.
+
+Analytics
+
+Chat analytics can be used to monitor conversation volume, message counts, detected intents, sentiment distribution, and other chatbot usage metrics.

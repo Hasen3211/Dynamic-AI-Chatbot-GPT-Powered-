@@ -1,0 +1,25 @@
+Frequently Asked Questions
+
+Q: What is this chatbot?
+A: It is a GPT-powered conversational AI application capable of maintaining context and providing dynamic responses.
+
+Q: Does the chatbot remember previous messages?
+A: Yes. Conversation memory stores recent messages so the chatbot can maintain conversational context.
+
+Q: What is RAG?
+A: RAG stands for Retrieval-Augmented Generation. It retrieves relevant information from a knowledge base and provides that information to the language model before generating a response.
+
+Q: Can the chatbot answer questions from documents?
+A: Yes. The RAG layer searches the available knowledge documents and provides relevant information as context.
+
+Q: Does the chatbot analyze sentiment?
+A: Yes. The system includes a sentiment analysis module for identifying the general emotional tone of user messages.
+
+Q: Does the chatbot identify user intent?
+A: Yes. The intent detection module helps classify the purpose of a user message.
+
+Q: Can the conversation be cleared?
+A: Yes. Users can clear the current conversation memory.
+
+Q: Is chat history stored?
+A: Yes. Conversation exchanges can be stored in the application's chat history file.

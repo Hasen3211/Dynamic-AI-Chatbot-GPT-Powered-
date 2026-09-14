@@ -1,0 +1,135 @@
+[
+    {
+        "id": "a2b50621-ef16-426e-9f4c-efb4034cbbb1",
+        "owner_id": "de97a156-96ae-40d1-af70-c01f03d9ce47",
+        "title": "Hello, introduce yourself.",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Hello, introduce yourself."
+            },
+            {
+                "role": "assistant",
+                "content": "Hello! I’m **NeuraChat**, your friendly, intelligent AI assistant. I’m here to help with a wide range of topics—whether you need explanations, programming help, writing assistance, everyday advice, or just a good conversation. \n\nI was **designed and developed by Hasen Basha**, and I strive to provide clear, accurate, and useful answers tailored to your needs. Feel free to ask me anything!"
+            },
+            {
+                "role": "user",
+                "content": "What are the latest AI developments?"
+            },
+            {
+                "role": "assistant",
+                "content": "### Recent AI Developments (as of September 2026)\n\nBelow is a snapshot of the most talked‑about breakthroughs, product releases, and research trends that are shaping the AI landscape right now.\n\n---\n\n#### 1. **Multimodal Foundations Models**\n- **What’s new:** Large models that natively process *text + images + audio + video* in a single forward pass (e.g., **Gemini‑4**, **Meta‑Llama‑Vision**, **OpenAI‑Omni**).\n- **Why it matters:** Enables “one‑prompt‑fits‑all” interactions—ask a question about a photo, a video clip, or an audio snippet without switching tools.\n- **Key use‑cases:** Real‑time visual assistants, automated video summarization, cross‑modal search engines, and richer content creation tools.\n\n#### 2. **Local (On‑Device) AI**\n- **What’s new:** Efficient, quantized LLMs and diffusion models that run on smartphones, edge servers, and even micro‑controllers (e.g., **TinyGPT‑2**, **EdgeDiffusion**).\n- **Why it matters:** Improves privacy (no data leaves the device), reduces latency, and cuts cloud‑compute costs.\n- **Recent milestones:** Apple’s “Neural Engine” now supports 100‑billion‑parameter inference with sub‑second latency; Qualcomm released a 7 nm AI accelerator that can run a 6‑B parameter model at 30 FPS.\n\n#### 3. **Generative Tools for Business**\n- **What’s new:** Enterprise‑grade generators for code (e.g., **GitHub Copilot X** with “team‑aware” context), design (e.g., **Adobe Firefly 2.0** with brand‑style locking), and data synthesis (synthetic tabular data platforms).\n- **Why it matters:** Accelerates product development cycles and reduces the need for large labeled datasets.\n- **Adoption:** A 2026 survey by the **AI Adoption Maturity Model** (joint effort by Accenture & CMU SEI) shows 68 % of Fortune 500 firms now use at least one generative AI tool in production.\n\n#### 4. **Open‑Source LLM Explosion**\n- **What’s new:** Several high‑performing, open‑weight models released under permissive licenses (e.g., **Mistral‑7B‑Instruct**, **Llama‑3‑8B**, **DeepSeek‑Coder‑7B**).\n- **Why it matters:** Democratizes access, spurs community‑driven safety research, and creates competition that drives cost‑efficiency.\n- **Market impact:** Open‑source models now account for ~35 % of total inference traffic, according to the **LLM‑Stats “Quality Index”** dashboard (updated daily).\n\n#### 5. **AI‑Powered Retrieval‑Augmented Generation (RAG)**\n- **What’s new:** Tight integration of vector databases (e.g., **Qdrant**, **Pinecone**) with LLMs, allowing real‑time grounding of responses in proprietary knowledge bases.\n- **Why it matters:** Improves factual accuracy and enables domain‑specific assistants (legal, medical, finance) without massive fine‑tuning.\n- **Recent demo:** A joint effort by Google DeepMind and Stanford introduced “**RAG‑Turbo**,” which can answer 10‑k‑token queries with < 2 % hallucination rate.\n\n#### 6. **Quality‑Driven Evaluation Metrics**\n- **What’s new:** The **Quality Index** (sigma‑normalized deviation) is now a standard benchmark across industry dashboards (see **llm‑stats.com**). It aggregates performance across:\n  - **Factuality**\n  - **Coherence**\n  - **Safety**\n  - **Latency**\n- **Why it matters:** Gives product teams a single, comparable number to track model improvements over time.\n\n#### 7. **Regulatory & Safety Advances**\n- **AI Governance:** The EU’s **AI Act** entered full enforcement in early 2026, requiring transparent model cards and risk‑assessment pipelines for high‑risk systems.\n- **Safety tooling:** OpenAI released **Safety‑Gym 2.0**, a suite for stress‑testing models against adversarial prompts, bias, and disallowed content."
+            }
+        ],
+        "created_at": "2026-09-14T16:50:09.217679",
+        "updated_at": "2026-09-14T16:50:09.217679"
+    },
+    {
+        "id": "3657d2d8-6eea-4f8a-afb1-6292dd9707de",
+        "owner_id": "de97a156-96ae-40d1-af70-c01f03d9ce47",
+        "title": "What is my favorite technology?",
+        "messages": [
+            {
+                "role": "user",
+                "content": "What is my favorite technology?"
+            },
+            {
+                "role": "assistant",
+                "content": "I’m not sure yet—​I don’t have any information about your preferences.  \nWhat technology (programming language, framework, gadget, etc.) do you enjoy the most? Let me know, and I can chat about it or suggest related resources!"
+            },
+            {
+                "role": "user",
+                "content": "Recent Chats"
+            },
+            {
+                "role": "assistant",
+                "content": "It looks like you’re trying to locate the list of your recent chats. The exact steps depend on which application you’re using. Here’s a quick guide for a few common platforms:\n\n| Platform | How to view recent chats | Extra tips |\n|----------|--------------------------|------------|\n| **Google Gemini (Gemini Apps)** | 1. Open the Gemini app.<br>2. In the left‑hand sidebar you’ll see a **“Recent chats”** section.<br>3. You can pin, rename, or delete chats from there to keep the important ones handy. | Use the **pin** icon to keep a conversation at the top, and the **trash** icon to remove ones you no longer need. |\n| **Microsoft Teams** | 1. Open Teams and go to the **Chat** tab.<br>2. By default you’ll see the most recent conversations.<br>3. If only a few chats appear, it may be a policy setting or a temporary glitch. Try restarting Teams or checking for updates. | If the view is limited by an admin policy, you’ll need to contact your IT admin to adjust it. |\n| **Facebook Messenger** | 1. Open Messenger (web or app).<br>2. The left‑hand panel (or the “Chats” tab on mobile) lists your recent conversations, sorted by most recent activity. | You can **pin** important chats to keep them at the top, or **archive** ones you want to hide without deleting. |\n| **Microsoft Copilot (Chat)** | 1. In the Copilot interface, recent chats appear under the **“Recents”** section.<br>2. If older chats have disappeared, they may have been automatically pruned after a period of inactivity. | Unfortunately, Copilot doesn’t currently offer a way to recover automatically‑deleted chats. Keeping a local copy or regularly exporting important threads can help. |\n| **This chatbot (NeuraChat)** | 1. I keep a short‑term **conversation memory** of the most recent messages in our current session, so I can refer back to earlier parts of our dialogue.<br>2. If you want to start fresh, just let me know and I can **clear the current conversation memory**. | I don’t store a permanent chat history beyond the active session, but I can repeat or summarize recent exchanges while we’re still chatting. |\n\n### What to do next?\n- **Tell me the platform** you’re interested in, and I can give you more detailed, step‑by‑step instructions.\n- If you’re looking for the recent messages from *our* current conversation, just let me know what you’d like to see (e.g., “show me the last three messages”) and I’ll repeat them for you. \n\nLet me know how I can help!"
+            }
+        ],
+        "created_at": "2026-09-14T16:36:22.517103",
+        "updated_at": "2026-09-14T16:36:22.517103"
+    },
+    {
+        "id": "93e68b77-331b-4685-9630-f83537323e83",
+        "owner_id": "de97a156-96ae-40d1-af70-c01f03d9ce47",
+        "title": "My favorite technology is Python.",
+        "messages": [
+            {
+                "role": "user",
+                "content": "My favorite technology is Python."
+            },
+            {
+                "role": "assistant",
+                "content": "That’s awesome! Python’s versatility and readability make it a favorite for so many people—from web development and data science to automation and AI. \n\nDo you have a particular project or area you enjoy working on the most with Python? If you’re looking for ideas, resources, or help with anything Python‑related, just let me know!"
+            },
+            {
+                "role": "user",
+                "content": "What is my favorite technology?"
+            },
+            {
+                "role": "assistant",
+                "content": "Your favorite technology is **Python**."
+            }
+        ],
+        "created_at": "2026-09-14T16:36:01.968885",
+        "updated_at": "2026-09-14T16:36:01.968885"
+    },
+    {
+        "id": "31ffcae1-47a8-4452-8b60-a698fdc4ea00",
+        "owner_id": "de97a156-96ae-40d1-af70-c01f03d9ce47",
+        "title": "who is rohit sharma",
+        "messages": [
+            {
+                "role": "user",
+                "content": "who is rohit sharma"
+            },
+            {
+                "role": "assistant",
+                "content": "**Rohit Sharma** (born 30 April 1987) is an Indian international cricketer widely regarded as one of the finest limited‑overs batsmen of his generation.  \n\n### Key points about his career  \n\n| Aspect | Details |\n|--------|---------|\n| **Full name** | Rohit Gurunath Sharma |\n| **Role** | Right‑hand bat / right‑arm off‑break bowler |\n| **International debut** | ODIs – 23 Oct 2007 vs. Australia; T20Is – 1 Sep 2007 vs. England; Tests – 6 Nov 2013 vs. West Indies |\n| **Captaincy** | • India’s white‑ball captain (ODI & T20I) from 2021 onward  <br>• Former captain of Mumbai Indians (IPL) (2015‑2021) |\n| **Major achievements** | • Holds the record for the highest individual ODI score – **264 runs** vs. Sri Lanka (2014) <br>• First player to score **four** ODI double‑centuries <br>• Only player with **three** ODI centuries of 200+ runs <br>• Part of India’s 2011 & 2015 World Cup squads; won the 2021 ICC T20 World Cup as captain <br>• Two‑time ICC Player of the Year (2021) |\n| **IPL franchise** | Mumbai Indians – led the side to **five** IPL titles (2015, 2017, 2019, 2020, 2023) |\n| **Playing style** | Known for his elegant “big‑game” batting, ability to dominate bowlers with a wide range of strokes, and a calm, composed temperament under pressure. |\n| **Personal life** | Married to Ritika Sajdeh (a former model and fashion executive) in 2015; they have a daughter, Samaira. |\n\n### Quick summary\n- **Batting highlights:** 9,000+ ODI runs, 3,000+ T20I runs, 5,000+ Test runs (as of 2024).  \n- **Records:** Highest individual ODI score (264), most double‑centuries in ODIs (4), most centuries in a single World Cup (5 in 2019).  \n- **Leadership:** Recognized for leading Mumbai Indians to multiple IPL titles and guiding India’s white‑ball side to success, including the 2021 T20 World Cup.\n\nRohit Sharma remains an active player and a central figure in Indian cricket, often referred to by fans as the “Hitman.”"
+            }
+        ],
+        "created_at": "2026-09-14T16:35:34.828048",
+        "updated_at": "2026-09-14T16:35:34.828048"
+    },
+    {
+        "id": "4aa97512-2b91-4ebe-b906-16afc0a59b5e",
+        "owner_id": "de97a156-96ae-40d1-af70-c01f03d9ce47",
+        "title": "who is your founder",
+        "messages": [
+            {
+                "role": "user",
+                "content": "who is your founder"
+            },
+            {
+                "role": "assistant",
+                "content": "NeuraChat was designed and developed by **Hasen Basha**."
+            },
+            {
+                "role": "user",
+                "content": "explain about him self"
+            },
+            {
+                "role": "assistant",
+                "content": "I don’t have a detailed public biography for Has Basha, but I can share what’s known in the context of NeuraChat:\n\n- **Role**: Hasen Basha is the designer and developer of NeuraChat.  \n- **Expertise**: As the creator of an AI‑driven conversational assistant, he likely has a background in software engineering, machine learning, and natural‑language processing.  \n- **Focus**: His work on NeuraChat shows an interest in building helpful, intelligent, and conversational AI tools that can answer a wide range of questions—from everyday queries to technical and programming topics.  \n\nIf you’re looking for more specific information (such as education, career history, or other projects), that detail isn’t publicly available in my current knowledge base. If you have a particular aspect you’re curious about, let me know and I’ll try to help with what I can!"
+            },
+            {
+                "role": "user",
+                "content": "explain btech"
+            },
+            {
+                "role": "assistant",
+                "content": "**B.Tech (Bachelor of Technology)**  \n\n| Aspect | Details |\n|--------|----------|\n| **What it is** | An undergraduate professional degree focused on engineering and technology. It is usually a **4‑year program** (8 semesters) in India and several other countries. |\n| **Typical Eligibility** | • Completion of 10 + 2 schooling (or equivalent) with Physics, Chemistry, Mathematics (PCM) – most common.<br>• Minimum aggregate marks (often 50‑60 % depending on the institute).<br>• Entrance exams (e.g., JEE Main, state CETs, private university tests) for most reputable colleges. |\n| **Core Structure** | 1. **Foundation Years (1st & 2nd year)** – basic sciences, maths, introductory engineering subjects (mechanics, electronics, programming, etc.).<br>2. **Specialization Years (3rd & 4th year)** – courses specific to the chosen branch (e.g., Computer Science, Mechanical, Electrical, Civil, etc.) and elective electives.<br>3. **Laboratories & Projects** – hands‑on labs each semester plus a final-year **Capstone/Project** that integrates theory and practice. |\n| **Common Branches (Specializations)** | • **Computer Science & Engineering (CSE)** – algorithms, data structures, AI, networking.<br>• **Electrical & Electronics Engineering (EEE)** – power systems, circuits, control.<br>• **Mechanical Engineering (ME)** – thermodynamics, design, manufacturing.<br>• **Civil Engineering (CE)** – structures, geotechnics, transportation.<br>• **Electronics & Communication Engineering (ECE)** – signal processing, communication systems.<br>• **Information Technology (IT)** – software development, databases, web technologies.<br>• **Other emerging fields** – Biotechnology, Aerospace, Robotics, Data Science, etc. |\n| **Key Differences from B.E. (Bachelor of Engineering)** | • **Curriculum focus** – B.Tech often emphasizes practical, hands‑on training and industry‑oriented projects, while B.E. may be slightly more theory‑oriented. <br>• **Industry perception** – In most Indian institutions the distinction is minimal; both degrees are treated equivalently for higher studies and jobs. |\n| **Typical Career Paths** | - **Software/IT** – developer, analyst, data scientist, system architect.<br>- **Core Engineering** – design engineer, project engineer, consultant, field engineer.<br>- **Manufacturing & Production** – production manager, quality engineer, maintenance engineer.<br>- **Public Sector / PSU** – roles in power, railways, defense, etc.<br>- **Higher Studies** – M.Tech, MBA, MS, Ph.D., or specialized certifications. |\n| **Further Studies & Certifications** | • **M.Tech / MS** – deeper specialization (often via GATE or university entrance exams).<br>• **MBA** – for managerial tracks.<br>• **Professional certifications** – Cisco (CCNA), AWS, PMP, PLC, etc., depending on the field. |\n| **Why Choose B.Tech?** | 1. **Industry relevance** – curriculum aligned with current technological trends.<br>2. **Hands‑on learning** – labs, workshops, internships, and final-year projects boost employability.<br>3. **Versatility** – graduates can work in IT, core engineering, research, or pursue entrepreneurship. |\n| **Typical Admission Process (India)** | 1. **Entrance Exam** (JEE Main, state CET, private university test).<br>2. **Counselling / Seat Allocation** based on rank and preferences.<br>3. **Document verification** and fee payment. |\n| **Tips for Success** | - **Strong fundamentals** in maths, physics, and chemistry.<br>- **Practice programming** early (C, C++, Python).<br>- **Participate in labs and projects** – they are heavily weighted in final grades.<br>- **Internships** – gain real‑world experience during summer breaks.<br>- **Stay updated** – follow tech news, online courses, and open‑source contributions. |\n\n---\n\n### Quick Summary\n\n- **B.Tech** is a 4‑year undergraduate degree aimed at producing technically skilled engineers.\n- It blends **theory, labs, and projects**, with a strong focus on **practical application**.\n- Graduates have **wide career options** in both the IT sector and"
+            },
+            {
+                "role": "user",
+                "content": "who is your founder"
+            },
+            {
+                "role": "assistant",
+                "content": "NeuraChat was designed and developed by **Hasen Basha**."
+            }
+        ],
+        "created_at": "2026-09-14T16:33:37.815329",
+        "updated_at": "2026-09-14T16:33:37.815329"
+    }
+]
