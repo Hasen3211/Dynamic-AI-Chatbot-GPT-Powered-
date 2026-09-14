@@ -15,7 +15,4 @@ class Config:
     CHAT_HISTORY_FILE = "data/chat_history.json"
 
     RAG_TOP_K = 3
-
-
-if not Config.GROQ_API_KEY:
-    raise ValueError("GROQ_API_KEY is missing from .env")
+    
